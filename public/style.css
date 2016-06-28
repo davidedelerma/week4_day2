@@ -1,0 +1,27 @@
+body {
+  background: #9baec8;
+  font-family: arial;
+  color: ##282c37;
+/*  background-position: center;
+  margin-top: 10px;
+  background-attachment: fixed;*/
+}
+
+.homepage{
+  display: block;
+  max-width:500px;
+  margin: auto;
+}
+
+.home_header {
+  color: #2b90d9; 
+  font-family: arial;
+  font-size: 50px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.stadium_image{
+  max-width:1000px;
+  margin: auto;
+};
